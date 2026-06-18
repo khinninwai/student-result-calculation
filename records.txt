@@ -1,0 +1,12 @@
+name=မခင်နှင်းဝေ|roll=တမ-၂၉၉၂|dt=2026-02-27 23:12:22|my=62|en=53|ma=83|ph=55|ch=54|addSub=Economics|addMark=63|total=370|avg=61.67|ogr=B-|dest=Math|status=PASS
+name=မအိမ့်ခြူးသော်|roll=တမ-၄၀၇|dt=2026-02-27 23:15:01|my=73|en=65|ma=64|ph=76|ch=75|addSub=Biology|addMark=94|total=447|avg=74.5|ogr=B+|dest=Biology|status=PASS
+name=မောင်မျိုးမင်းသူ|roll=တမ-၄၀၂|dt=2026-02-27 23:10:29|my=78|en=65|ma=57|ph=55|ch=56|addSub=Biology|addMark=87|total=398|avg=66.33|ogr=B|dest=Biology|status=PASS
+name=မဇင်မြတ်မြတ်ကျော်|roll=မလ-၅|dt=2026-02-28 11:06:41|my=65|en=73|ma=65|ph=54|ch=54|addSub=Biology|addMark=90|total=401|avg=66.83|ogr=B|dest=Biology|status=PASS
+name=မဝတ်မှုံဦး|roll=တမ-၃၁၀၅|dt=2026-02-28 11:08:17|my=71|en=73|ma=65|ph=54|ch=54|addSub=Economics|addMark=50|total=367|avg=61.17|ogr=B-|dest=-|status=PASS
+name=မောင်ဇာနည်မောင်|roll=တမ-၁၇၉၈|dt=2026-02-28 11:08:58|my=71|en=73|ma=50|ph=54|ch=54|addSub=Economics|addMark=50|total=352|avg=58.67|ogr=C+|dest=-|status=PASS
+name=မောင်မင်းချစ်နိုင်|roll=တမ-၁၁၂၈|dt=2026-02-28 11:18:40|my=45|en=35|ma=40|ph=41|ch=45|addSub=Economics|addMark=40|total=246|avg=41.0|ogr=C-|dest=-|status=FAIL
+name=မောင်သန့်သူရိန်ဖြိုး|roll=တမ-၂၈၈၈|dt=2026-02-28 11:40:34|my=68|en=78|ma=85|ph=83|ch=90|addSub=Economics|addMark=85|total=489|avg=81.5|ogr=A|dest=Math, Physics, Chemistry, Economics|status=PASS
+name=မနိုနို|roll=တမ-၁၂၈|dt=2026-03-04 10:11:59|my=54|en=33|ma=55|ph=22|ch=77|addSub=Economics|addMark=40|total=281|avg=46.83|ogr=C-|dest=-|status=FAIL
+name=မမ|roll=တမ-၂၈၈|dt=2026-03-04 15:20:42|my=78|en=78|ma=67|ph=89|ch=45|addSub=Biology|addMark=56|total=413|avg=68.83|ogr=B|dest=Physics|status=PASS
+name=မမ|roll=တမ-၂၈၈|dt=2026-03-04 15:21:56|my=78|en=100|ma=67|ph=89|ch=45|addSub=Biology|addMark=56|total=435|avg=72.5|ogr=B+|dest=English, Physics|status=PASS
+name=မမ|roll=တမ-၂၈၈|dt=2026-03-06 21:40:01|my=78|en=90|ma=67|ph=89|ch=45|addSub=Economics|addMark=56|total=425|avg=70.83|ogr=B+|dest=English, Physics|status=PASS
